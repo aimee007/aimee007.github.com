@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+a{ color:#FFF;}
+body{font-family:微软雅黑;}
+.headBox{ min-width:1000px; background:#71bdcd; color:#FFF; font-size:14px;}
+.hdLine{ min-width:1000px; height:2px; background:#FFF;}
+.headBox ol{ width:1000px; margin:0 auto; height:50px; font-weight:bold;}
+ol .olL{ width:150px; line-height:50px;}
+ol .olR{ width:300px; line-height:50px;}
+.head{ min-width:1000px;}
+.headNav{ width:1000px; margin:0 auto; padding:20px 0; text-align:center;}
+.headNav li{ float:left; width:120px; height:50px; border:2px solid #fff; border-radius:10px; line-height:50px; margin-right:20px; background:#50bfb8; font-size:20px; _font-weight:bold;  box-shadow:0px 5px 10px #FFF, inset 0 0 5px #fff; text-shadow:0 0 5px #fff;transition:.3s all ease;}
+.headNav li:hover{box-shadow:0px 0px 5px #FFF, inset 0 0 0px #fff; text-shadow:0 0 10px #fff;}
+.headNav li:active{-webkit-box-shadow:0 0px 0px #fff,inset 0 0 0px #fff; transform:translate(0,10px)}
